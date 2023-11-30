@@ -1,0 +1,12 @@
+[submodule "intro.py"]
+	path = intro.py
+	url = ssh://git@game.secdim.com/ahmedbaig/intro.py.git
+[submodule "heap-overflow.c"]
+	path = heap-overflow.c
+	url = ssh://git@game.secdim.com/ahmedbaig/heap-overflow.c.git
+[submodule "imagetragick.df"]
+	path = imagetragick.df
+	url = ssh://git@game.secdim.com/ahmedbaig/imagetragick.df.git
+[submodule "prompt-hth.ml"]
+	path = prompt-hth.ml
+	url = ssh://git@game.secdim.com/ahmedbaig/prompt-hth.ml.git
